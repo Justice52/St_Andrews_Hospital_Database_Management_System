@@ -103,6 +103,4 @@ This project is open source and available under the MIT License.
 Created by Justice Ayamdoo
 Email: justice2022aya@gmail.com
 
-Let me know if you'd like this adapted for deployment on Heroku, Docker, or with a PostgreSQL database configuration.
-
 
